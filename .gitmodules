@@ -1,0 +1,3 @@
+[submodule "shared-constants-test"]
+	path = shared-constants-test
+	url = https://github.com/tundrekka/shared-constants-test.git
